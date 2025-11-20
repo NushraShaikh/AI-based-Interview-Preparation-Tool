@@ -27,14 +27,14 @@ Works fully **offline**, with optional support for **Ollama** to generate AI-bas
 ```bash
 git clone <https://github.com/NushraShaikh/AI-based-Interview-Preparation-Tool>
 cd <repo-folder>
-
+```
 ### 2️⃣ Create a virtual environment (recommended)
 
 ```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate  # Mac/Linux
-
+```
 ### 3️⃣ Install dependencies
 
 ```bash
